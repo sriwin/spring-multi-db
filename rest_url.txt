@@ -1,0 +1,10 @@
+########################################################
+### Oracle
+########################################################
+http://localhost:8080/rest/loadDataFromOracle?app=A1_ORACLE_DB&env=db1&accountNbr=1234
+http://localhost:8080/rest/loadDataFromOracle?app=A1_ORACLE_DB&env=db2&accountNbr=2345
+
+########################################################
+### MS-SQL Server
+########################################################
+http://localhost:8080/rest/loadDataFromSQLServer?app=A2_SQL_SERVER_DB&env=db1&accountNbr=3456
